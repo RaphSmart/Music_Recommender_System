@@ -1,3 +1,7 @@
+
+# Ignore .pkl files
 *.pkl
-*.log
-similarity.pkl
+
+# Ignore directories
+logs/
+tmp/
